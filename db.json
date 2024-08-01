@@ -17,6 +17,18 @@
       "name": "Xiaomi",
       "price": "1300",
       "quantity": 777
+    },
+    {
+      "id": "c2a9",
+      "name": "Nokia",
+      "price": "111",
+      "quantity": "222"
+    },
+    {
+      "id": "7ef1",
+      "name": "Blackberry",
+      "price": "300",
+      "quantity": "222"
     }
   ]
 }
