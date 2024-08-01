@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone",
+      "price": "1800",
+      "quantity": 333
+    },
+    {
+      "id": "2",
+      "name": "Samsung",
+      "price": "1500",
+      "quantity": 222
+    },
+    {
+      "id": "3",
+      "name": "Xiaomi",
+      "price": "1300",
+      "quantity": 777
+    }
+  ]
+}
